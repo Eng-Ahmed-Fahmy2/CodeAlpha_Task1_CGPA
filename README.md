@@ -1,5 +1,5 @@
 # CodeAlpha_Task1_CGPA
-##Using C++
+## Using C++
 ● take input for the number of courses taken by the student. 
 ● For each course, input the grade and the credit hours. 
 ● Calculate the total credits and total grade points (grade × credit hours). 
