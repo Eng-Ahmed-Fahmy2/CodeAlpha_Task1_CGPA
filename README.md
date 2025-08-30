@@ -1,4 +1,4 @@
-# CodeAlpha_Task1_CGPA
+# CodeAlpha_Task1_CGPA_Calculator
 ## Using C++
 ● take input for the number of courses taken by the student. 
 ● For each course, input the grade and the credit hours. 
